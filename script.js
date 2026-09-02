@@ -8,7 +8,6 @@ const products = [
         price: 59,
         image: "ajg.jpg",
         description: "Premium oversized T-shirt designed for everyday comfort and modern streetwear style.",
-        tag: "NEW"
     },
 
     {
