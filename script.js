@@ -135,7 +135,7 @@ categoryButtons.forEach(button => {
             button.dataset.category;
 
 
-        if (category === "all") {
+        if (category === "ALL") {
 
             currentProducts = [...products];
 
