@@ -6,7 +6,7 @@ const products = [
         category: "tshirt",
         categoryName: "T-Shirt",
         price: 59,
-        image: "C:\\Users\\COLORFUL\\OneDrive\\Attachments\\Gambar\\Saved Pictures\\ajg.jpg",
+        image: "ajg.jpg",
         description: "Premium oversized T-shirt designed for everyday comfort and modern streetwear style.",
         tag: "NEW"
     },
@@ -17,7 +17,7 @@ const products = [
         category: "hoodie",
         categoryName: "Hoodie",
         price: 129,
-        image: "C:\\Users\\COLORFUL\\OneDrive\\Attachments\\Gambar\\Saved Pictures\\SI202202150586_news.jpg",
+        image: "SI202202150586_news.jpg",
         description: "A clean and comfortable hoodie made for casual everyday outfits.",
         tag: "BEST SELLER"
     },
