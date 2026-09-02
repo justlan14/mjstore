@@ -7,7 +7,9 @@ const products = [
         categoryName: "AJG",
         price: 59,
         image: "ajg.jpg",
-        description: "Premium oversized T-shirt designed for everyday comfort and modern streetwear style.",
+        description: "OKAY",
+        
+
     },
 
     {
@@ -17,8 +19,8 @@ const products = [
         categoryName: "CAR",
         price: 129,
         image: "SI202202150586_news.jpg",
-        description: "A clean and comfortable hoodie made for casual everyday outfits.",
-        tag: "BEST SELLER"
+        description: "OKAY2",
+    
     },
 ];
 
@@ -70,9 +72,7 @@ function displayProducts(productList) {
                     alt="${product.name}"
                 >
 
-                <span class="product-tag">
-                    ${product.tag}
-                </span>
+            
 
             </div>
 
