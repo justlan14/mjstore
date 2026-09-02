@@ -82,6 +82,10 @@ function displayProducts(productList) {
                     ${product.categoryName}
                 </p>
 
+                   <h2 class="product-tag">
+                    ${product.tag}
+                </h2>
+
                 <h3 class="product-name">
                     ${product.name}
                 </h3>
