@@ -2,9 +2,9 @@ const products = [
 
     {
         id: 1,
-        name: "Essential Oversized Tee",
-        category: "tshirt",
-        categoryName: "T-Shirt",
+        name: "AJG TUNJUK",
+        category: "CAR",
+        categoryName: "AJG",
         price: 59,
         image: "ajg.jpg",
         description: "Premium oversized T-shirt designed for everyday comfort and modern streetwear style.",
@@ -13,81 +13,14 @@ const products = [
 
     {
         id: 2,
-        name: "Classic Black Hoodie",
-        category: "hoodie",
-        categoryName: "Hoodie",
+        name: "REDBULL",
+        category: "CAR",
+        categoryName: "CAR",
         price: 129,
         image: "SI202202150586_news.jpg",
         description: "A clean and comfortable hoodie made for casual everyday outfits.",
         tag: "BEST SELLER"
     },
-
-    {
-        id: 3,
-        name: "Relaxed Cargo Pants",
-        category: "pants",
-        categoryName: "Pants",
-        price: 89,
-        image: "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=700&q=80",
-        description: "Relaxed cargo pants with a modern fit and practical everyday design.",
-        tag: "NEW"
-    },
-
-    {
-        id: 4,
-        name: "Minimal Denim Jacket",
-        category: "jacket",
-        categoryName: "Jacket",
-        price: 159,
-        image: "https://images.unsplash.com/photo-1544022613-e87ca75a784a?auto=format&fit=crop&w=700&q=80",
-        description: "A timeless denim jacket that works perfectly with casual everyday outfits.",
-        tag: "LIMITED"
-    },
-
-    {
-        id: 5,
-        name: "Essential White Tee",
-        category: "tshirt",
-        categoryName: "T-Shirt",
-        price: 49,
-        image: "https://images.unsplash.com/photo-1583743814966-8936f37f4678?auto=format&fit=crop&w=700&q=80",
-        description: "A clean essential white T-shirt with a comfortable everyday fit.",
-        tag: "POPULAR"
-    },
-
-    {
-        id: 6,
-        name: "Heavyweight Grey Hoodie",
-        category: "hoodie",
-        categoryName: "Hoodie",
-        price: 139,
-        image: "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=700&q=80",
-        description: "Heavyweight hoodie with a soft interior and relaxed silhouette.",
-        tag: "NEW"
-    },
-
-    {
-        id: 7,
-        name: "Wide Leg Trousers",
-        category: "pants",
-        categoryName: "Pants",
-        price: 99,
-        image: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=700&q=80",
-        description: "Modern wide-leg trousers designed for a clean and relaxed appearance.",
-        tag: "NEW"
-    },
-
-    {
-        id: 8,
-        name: "Utility Overshirt",
-        category: "jacket",
-        categoryName: "Jacket",
-        price: 149,
-        image: "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=700&q=80",
-        description: "Versatile utility overshirt for layering and everyday streetwear looks.",
-        tag: "LIMITED"
-    }
-
 ];
 
 
