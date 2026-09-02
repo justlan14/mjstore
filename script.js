@@ -3,7 +3,7 @@ const products = [
     {
         id: 1,
         name: "AJG TUNJUK",
-        category: "CAR",
+        category: "AJG",
         categoryName: "AJG",
         price: 59,
         image: "ajg.jpg",
