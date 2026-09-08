@@ -8,6 +8,7 @@ const products = [
         price: 59,
         image: "ajg.jpg",
         description: "OKAY",
+        tag : "New"
         
 
     },
@@ -20,6 +21,7 @@ const products = [
         price: 129,
         image: "SI202202150586_news.jpg",
         description: "OKAY2",
+        tag : "best seller"
     
     },
 ];
@@ -71,8 +73,9 @@ function displayProducts(productList) {
                     src="${product.image}"
                     alt="${product.name}"
                 >
-
-            
+                <span class="product-tag">
+                    ${product.tag}
+                </span>
 
             </div>
 
